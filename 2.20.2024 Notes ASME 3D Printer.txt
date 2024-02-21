@@ -1,5 +1,0 @@
-Use GitHub for electron frontend development
-OctoPrint itself will take care of the backend
-Downloading OctoPrint onto Raspberry Pi
-How to host the "web app"
-Connect the Raspberry Pi directly to monitor, keyboard, and mouse to control
